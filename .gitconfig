@@ -1,0 +1,26 @@
+[user]
+	email = dev@kar.gs
+	name = Karol Gusak
+[push]
+	default = simple
+[core]
+	editor = vim
+[merge]
+	tool = diffuse
+[color]
+	ui = true
+[grep]
+	lineNumber = true
+[alias]
+       ci = commit
+       st = status
+       pl = pull
+       ps = push
+       co = checkout
+       pr = pull --rebase
+       rs = reset HEAD
+       rb = rebase
+       pstrack = push -u origin
+       lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+       mr = merge
+       sb = submodule update

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="tinon" values="JDK_1_7" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="tinon" values="AndroidRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="tinon" values="JAVA_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="tinon" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="tinon" values="android-gradle,android" />
+    </group>
+    <group name="file-type">
+      <project id="tinon" values="AIDL,Images,JAVA,Groovy,IDEA_MODULE,Properties,ARCHIVE,UNKNOWN,PLAIN_TEXT,XML" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="18" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="1120" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ideaapp.started" count="88" />
+    </counts>
+  </component>
+</application>
+
